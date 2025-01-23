@@ -5,7 +5,7 @@
 
 Participei de projetos acadêmicos e pessoais, onde desenvolvi aplicações web e APIs robustas. Tenho interesse em continuar aprimorando minhas habilidades em tecnologias de ponta e estou sempre em busca de novos desafios que me permitam crescer profissionalmente.
 
-Para mais informações sobre minhas habilidades e experiência profissional, por favor, [visite o meu perfil do Linkedin](www.linkedin.com/in/lucas-a-r-do-amaral-2751a02b1)
+Para mais informações sobre minhas habilidades e experiência profissional, por favor, visite o meu perfil do Linkedin: www.linkedin.com/in/lucas-a-r-do-amaral-2751a02b1
 <br>
 
 <h2>Estatíscas com incumbência de captar maior detalhamento sobre minhas postagens.</h2>
