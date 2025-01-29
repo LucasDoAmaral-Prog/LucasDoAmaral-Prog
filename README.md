@@ -1,6 +1,7 @@
 <div class="description" style="display: inline_block">
     <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Olá, eu sou o Lucas!</h1> <br>
     <h2>Um pouco sobre mim e dos meus feitos acadêmicos e profissionais.</h2><br>
+    
     <p>Tenho 19 anos e sou estudante de Sistemas de Informação na Universidade Estadual de Campinas (UNICAMP). Especializo-me em desenvolvimento Full-Stack, com foco maior no Back-End. Possuo experiência em linguagens como Java, C, Lua, JavaScript, além de conhecimentos sólidos em bancos de dados relacionais e não relacionais, como MySQL, MongoDB e FireBase.
 
 Participei de projetos acadêmicos e pessoais, onde desenvolvi aplicações web e APIs robustas. Tenho interesse em continuar aprimorando minhas habilidades em tecnologias de ponta e estou sempre em busca de novos desafios que me permitam crescer profissionalmente.
