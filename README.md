@@ -18,4 +18,4 @@ Para mais informações sobre minhas habilidades e experiência profissional, po
 <div class="social networks" style="display: inline_block">
 <h2>🔍 Me encontre também em:</h2>
  
-  <a href="https://www.instagram.com/lucasamarallz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a><a href="https://discord.gg/qarQmFYFnz"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><a href="https://open.spotify.com/user/lukgammer.amaral?si=e4f33a21874b49b6"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://www.instagram.com/lucasamarallz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a><a href="https://open.spotify.com/user/lukgammer.amaral?si=e4f33a21874b49b6"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
