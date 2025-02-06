@@ -12,6 +12,7 @@ Para mais informações sobre minhas habilidades e experiência profissional, po
     <a href="https://github.com/LucasDoAmaral-Prog">
      <img src="https://github-readme-stats.vercel.app/api?username=LucasDoAmaral-Prog&show_icons=true&theme=dracula" alt="nota" height= 290px width=50%>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDoAmaral-Prog&layout=compact&theme=dracula" alt="top language" height=290px width=35%>
+        
     </a>
 </div>
 <br>
